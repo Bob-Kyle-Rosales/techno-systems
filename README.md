@@ -132,3 +132,11 @@ Must run this with git bash in windows or in linux terminal.
 docker rmi $(docker images -f "dangling=true" -q)
 docker volume rm $(docker volume ls -q)
 ```
+
+# Comments
+
+- The reliability of the A.I. needs improvement.
+- Ensure that the added content is relevant to the quality improvement of the content.
+- Optionally, use instructions rather than rules, if possible.
+- Establish connections between templates.
+- The rubrics are a bit vague; consider specifying rules in the ratings for the GPT to follow. Assess and rate accordingly.
