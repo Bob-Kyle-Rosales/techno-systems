@@ -111,10 +111,10 @@ docker-compose up -d --no-deps --build <service_name>
 
 The database for techno-systems and techno-systems-admin are the same. The Techno-systems-admin can only be accessible to user with the role of 0.
 
+There is techno_db(8).sql. Import that to your database for initial data on your local.
+
 user: admin@gmail.com
 pass: admin123
-
-There is techno_db(8).sql. Import that to your database for initial data on your local.
 
 for Techno-systems repository, create a new account by signing up.
 
